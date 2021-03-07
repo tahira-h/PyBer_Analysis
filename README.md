@@ -44,7 +44,13 @@ Total Fare by City Type
 As shown in the image below, total fare by urban city type increases in February, but decreases in late April. Total fare by a suburban city type increases in February, but decreases in late April. Total fare by a rural city type dcreases in the month of January and increases in April.
 
 	-----MULTIPLE LINE CHART HERE-------------
-	
+
+Open the file containing the Linux mascot.
+Marvel at its beauty.
+
+![Tux, the Linux mascot](/assets/images/tux.png)
+
+Close the file.
 
 SUMMARY
 
