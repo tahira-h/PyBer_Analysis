@@ -14,15 +14,15 @@ The differences in ride-sharing data among the urban, suburban, and rural city t
 
 Urban City Types
 
-The ride sharing data for urban city types had the highest ranking data with the results of: Total Rides (1625), Total Drivers (2405), Total Fares ($39854.38), Average Fare per Ride ($24.525), and Average Fare per Driver ($16.57).
+The ride sharing data for urban city types had the highest ranking data with the results of: Total Rides (1625), Total Drivers (2405), Total Fares ($39,854.38), Average Fare per Ride ($24.53) and Average Fare per Driver ($16.57).
 
 Suburban City Types
 
-The ride sharing data for suburban city types had the middle ranking data with the results of: Total Rides (625), Total Drivers (490), Total Fares ($19356.33), Average Fare per Ride ($30.970), and Average Fare per Driver ($39.502). 
+The ride sharing data for suburban city types had the middle ranking data with the results of: Total Rides (625), Total Drivers (490), Total Fares ($19,356.33), Average Fare per Ride ($30.97), and Average Fare per Driver ($39.50). 
 
 Rural City Types
 
-The ride sharing data for rural city types had the lowest ranking data with the results of: Total Rides (125), Total Drivers (78), Total Fares (4327.93), Average Fare per Ride ($34.623), and Average Fare per Driver ($55.486). 
+The ride sharing data for rural city types had the lowest ranking data with the results of: Total Rides (125), Total Drivers (78), Total Fares ($4,327.93), Average Fare per Ride ($34.62), and Average Fare per Driver ($55.49). 
 	
 Open the file containing the DataFrame_Summary.
 
