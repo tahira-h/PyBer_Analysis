@@ -4,7 +4,7 @@ OVERVIEW
 
 Purpose
 
-The purpose of this analysis is to create a summary DataFrame presenting visual aids of the ride-sharing data research by city types: Urban, Suburban, and Rural. Visual aids will end with a multiple-line graph showing the total weekly fares for each city type. This report inform viewers how the differences can be used by decision makers at PyBer, and how ride-sharing results varies by each city type.
+The purpose of this analysis is to create a summary DataFrame presenting visual aids of the ride-sharing data research by city types: Urban, Suburban, and Rural. Visual aids will end with a multiple-line chart showing the total weekly fares for each city type. This report inform viewers how the differences can be used by decision makers at PyBer, and how ride-sharing results varies by each city type.
 
 RESULTS
 
