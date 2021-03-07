@@ -30,7 +30,7 @@ The ride sharing data for rural city types had the lowest ranking data with the 
 Open the file containing the DataFrame_Summary.
 DataFrame_Summary
 
-![DataFrame_Summary](/assets/image/DataFrame_Summary.png)
+![DataFrame_Summary](/PyBer_Analysis/analysis/DataFrame_Summary.png)
 
 Close the file.
 	
