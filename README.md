@@ -28,7 +28,6 @@ The ride sharing data for rural city types had the lowest ranking data with the 
 	
 	
 Open the file containing the DataFrame_Summary.
-DataFrame_Summary
 
 ![DataFrame_Summary](/PyBer_Analysis/analysis/DataFrame_Summary.png)
 
@@ -45,10 +44,9 @@ As shown in the image below, total fare by urban city type increases in February
 
 	-----MULTIPLE LINE CHART HERE-------------
 
-Open the file containing the Linux mascot.
-Marvel at its beauty.
+Open the file containing the PyBer Summary.
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![PyBer_Summary](/PyBer_Analysis/analysis/PyBer_summary.png)
 
 Close the file.
 
