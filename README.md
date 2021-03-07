@@ -23,9 +23,6 @@ The ride sharing data for suburban city types had the middle ranking data with t
 Rural City Types
 
 The ride sharing data for rural city types had the lowest ranking data with the results of: Total Rides (125), Total Drivers (78), Total Fares (4327.93), Average Fare per Ride ($34.623), and Average Fare per Driver ($55.486). 
-
-	-----DATAFRAME IMAGE HERE---------
-	
 	
 Open the file containing the DataFrame_Summary.
 
@@ -41,8 +38,6 @@ In contrast, the final results of the data presented in the multiple-line chart 
 Total Fare by City Type
 
 As shown in the image below, total fare by urban city type increases in February, but decreases in late April. Total fare by a suburban city type increases in February, but decreases in late April. Total fare by a rural city type dcreases in the month of January and increases in April.
-
-	-----MULTIPLE LINE CHART HERE-------------
 
 Open the file containing the PyBer Summary.
 
